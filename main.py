@@ -1,0 +1,9 @@
+print(print, "\n")
+import turtle
+import random
+import gzip
+import os
+print(turtle, "\n")
+print(random, "\n")
+print(gzip, "\n")
+print(os, "\n")
